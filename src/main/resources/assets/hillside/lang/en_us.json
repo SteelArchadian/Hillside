@@ -1,0 +1,19 @@
+{
+  "block.hillside.terrain_slab": "%s Slab",
+  "hillside.blocks.title": "Hillside: which blocks get slabs",
+  "hillside.blocks.search": "Search blocks",
+  "hillside.blocks.hint": "Off = no new slabs of this block. Giving a new block slabs needs a restart.",
+  "hillside.blocks.state_on": "Slabs: On",
+  "hillside.blocks.state_off": "Slabs: Off",
+  "hillside.blocks.state_restart": "On (restart)",
+  "hillside.blocks.falling_on_short": "Falling: On",
+  "hillside.blocks.falling_off_short": "Falling: Off",
+  "hillside.blocks.falling_tip": "Slabs of sand, gravel and other falling blocks fall like the full block does.",
+  "hillside.blocks.falling_on": "Hillside: sand and gravel slabs now fall like their blocks.",
+  "hillside.blocks.falling_off": "Hillside: sand and gravel slabs no longer fall.",
+  "hillside.blocks.on": "Hillside: %s slabs turned on.",
+  "hillside.blocks.off": "Hillside: %s slabs turned off; no new ones will generate.",
+  "hillside.blocks.on_restart": "Hillside: %s will get slabs after a restart (on a server, players need the same config/hillside/blocks.json).",
+  "hillside.blocks.off_restart": "Hillside: %s slabs turned off; they are removed after a restart.",
+  "hillside.blocks.unknown": "Hillside: %s is not a block that can have a slab."
+}

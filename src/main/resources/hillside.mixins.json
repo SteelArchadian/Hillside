@@ -1,0 +1,9 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "dev.chill.hillside.mixin",
+  "plugin": "dev.chill.hillside.mixin.HillsideMixinPlugin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["IrisBlockIdsMixin"],
+  "injectors": {"defaultRequire": 1}
+}
